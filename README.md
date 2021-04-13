@@ -10,7 +10,7 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a target="_blank" href="https://linkedin.com/in/https://www.linkedin.com/in/mehmet-hamdi-uslu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+  <a target="_blank" href="https://www.linkedin.com/in/mehmet-hamdi-uslu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <a target="_blank" href="mailto:mehmet.uslu96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 </p>
 
