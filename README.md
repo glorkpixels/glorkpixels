@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">- 📫 You can reach me with email anytime **mehmet.uslu96@gmail.com**</h3>
+<h3 align="center">- 📫 You can reach me with email anytime mehmet.uslu96@gmail.com</h3>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
